@@ -1,0 +1,30 @@
+body{
+    background: black;
+    color: white;
+}
+nav{
+    background: black;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     
+}
+nav a{
+    color: white;
+    font-size: 20px;
+  
+}
+.story{
+    background: black;
+    color: white;
+    height: 70px;
+    width: 90%;
+    position: relative;
+    left: 90px;
+}

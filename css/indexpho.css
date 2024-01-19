@@ -1,0 +1,26 @@
+nav{
+ border-style:solid;
+    position: absolute;
+    top: 94%;
+    left: 0%;
+    height: 30px;
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px; 
+}
+nav a img{
+    height: 25px;;
+    padding-left: 3em;
+}
+.story{
+    background: black;
+    color: white;
+    height: 70px;
+    width: 100%;
+}
+body{
+    background: #000;
+}
